@@ -1,7 +1,7 @@
 ## Background & Objectives
 
 In this project, we are going to show a gallery with panels displayed vertically. When the user clicks on each panel, it will expand and there
-will be words falling from the top and coming from the bottom, building a nice sentence.
+will be words falling from the top and coming from the bottom, forming a nice sentence.
 
 https://user-images.githubusercontent.com/67716187/142947961-ab578aea-a395-4adf-aa8f-80aaf982a1e0.mov
 
